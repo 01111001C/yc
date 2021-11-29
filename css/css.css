@@ -1,3 +1,20 @@
 body{
-    background-color: black;
+/*
+background: radial-gradient(circle, rgba(42,12,92,1) 60%, rgba(0,0,0,0.95) 100%);
+Gradiente negro - morado
+*/
+/*
+main - well done
+background: rgb(92,12,12);
+background: radial-gradient(circle, rgba(92,12,12,1) 50%, rgba(0,0,0,0.9350348027842228) 100%);
+*/
+
+/*
+background: rgb(92,12,12);
+background: radial-gradient(circle, rgba(92,12,12,1) 60%, rgba(42,12,92,1) 100%);
+*/
+
+background: rgb(92,12,12);
+background: radial-gradient(circle, rgba(92,12,12,1) 60%, rgba(101,27,0,1) 70%, rgba(0,0,0,1) 100%);
+
 }
